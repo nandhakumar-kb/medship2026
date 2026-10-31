@@ -1,0 +1,8 @@
+{
+  "name": "medship-working",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "vercel-build": "echo Deploying static site"
+  }
+}
